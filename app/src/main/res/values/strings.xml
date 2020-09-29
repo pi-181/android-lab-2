@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Lab 2</string>
+    <string name="edit_message">Enter your text here</string>
+    <string name="button_send">Go!</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="imageDesc">Generic image, by default huge tree in night</string>
+    <string name="openButtonDesc">Button that opens link of image source</string>
+    <string name="imageSource">https://vsthemes.ru/wallpapers/fantasy/1619-dark-wood.html</string>
+</resources>
+
